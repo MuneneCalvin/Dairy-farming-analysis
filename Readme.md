@@ -197,10 +197,7 @@
                 -Authentication servers
                 -Geo-location API-routes
 
-              
-
-
-    <img src="./Dairy Management Context Diagram.PNG">             
+              <img src="./Dairy Management Context Diagram.PNG">           
                 
    *System features
         
