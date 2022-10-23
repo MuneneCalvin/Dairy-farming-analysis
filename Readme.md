@@ -174,8 +174,10 @@
     *Scope
         -Product scope
             -The proposed platform will provide a one stop center through which these stakeholders collaborate for
-             the purposes of ensuring that the farmer gets value for the investment made in dairy farming. The
+             the purposes of ensuring that the farmer gets value for the investment made in dairy farming.
+             The
              solution will be made available through App, web and USSD. 
+             
     *Document Conventions
     
 
@@ -197,7 +199,7 @@
 
                      
                         
-                 
+          https://natujengecommunity.slack.com/files/U045J1G8X6U/F047P1SG49H/dairy_management_context_diagram.png       
 
                  
                 
@@ -205,15 +207,25 @@
         
    *Functional Requirements
      -Farmers
+     
         -Farmer should be able to login
+       
         -Farmer can update details(Password,mpesa number,bank details,)
+        
         -Farmer  can transfer from one coopertaive to another
+        
         -Farmer can access information from the cooperative(change in milk price(kg),input providers available,vet officers active)
+        
         -Farmer is provided mechanism to have  self service functionalities
+        
              -Check milk delivery reports
+             
              -Payment Status for previous month deliveries
+             
              -Review monthly milk sales
+             
              -update delivery routes based on his/her location.
+             
         -Farmer can receive feedback
 
 
