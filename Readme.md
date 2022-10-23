@@ -1,13 +1,30 @@
 #Problem Statement
+
     *Purpose
+    
       -To Streamline operations in the dairy industry ensuring collaboration of all stake holders.
+      
       -The proposed platform  aims to ensure farmers get the value of investment made.
-      -
+      
+      
+      
+      
+      
     *Problem definition
+    
+    
       -Farmer who experiences challenges in making profits on investment done in dairy farming
+      
       -Farmer  gets connected to vet service provides and farm input providers
+      
       -Farmers are registered by cooperatives and they will have a direct access to financial instituitions,the milk market and other key stakeholders int the dairy sector.
+      
       -Farmer will have access to better  tools and information to improve production.  
+      
+      
+      
+      
+      
 
     *Users
       -Farmer
@@ -157,8 +174,10 @@
     *Scope
         -Product scope
             -The proposed platform will provide a one stop center through which these stakeholders collaborate for
-             the purposes of ensuring that the farmer gets value for the investment made in dairy farming. The
+             the purposes of ensuring that the farmer gets value for the investment made in dairy farming.
+             The
              solution will be made available through App, web and USSD. 
+             
     *Document Conventions
     
 <img src="./Dairy Management Context Diagram.PNG">
@@ -180,7 +199,8 @@
 
                      
                         
-                 
+        <img src="https://natujengecommunity.slack.com/files/U045J1G8X6U/F047P1SG49H/dairy_management_context_diagram.png">
+"
 
                  
                 
@@ -188,15 +208,25 @@
         
    *Functional Requirements
      -Farmers
+     
         -Farmer should be able to login
+       
         -Farmer can update details(Password,mpesa number,bank details,)
+        
         -Farmer  can transfer from one coopertaive to another
+        
         -Farmer can access information from the cooperative(change in milk price(kg),input providers available,vet officers active)
+        
         -Farmer is provided mechanism to have  self service functionalities
+        
              -Check milk delivery reports
+             
              -Payment Status for previous month deliveries
+             
              -Review monthly milk sales
+             
              -update delivery routes based on his/her location.
+             
         -Farmer can receive feedback
 
 
