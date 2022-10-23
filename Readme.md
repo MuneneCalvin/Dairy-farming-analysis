@@ -199,7 +199,8 @@
 
                      
                         
-          https://natujengecommunity.slack.com/files/U045J1G8X6U/F047P1SG49H/dairy_management_context_diagram.png       
+        ![Dairy Management Context Diagram](https://user-images.githubusercontent.com/90177693/197407355-366c955d-3ea6-489d-9ffe-aa691a43bb9e.PNG)
+
 
                  
                 
