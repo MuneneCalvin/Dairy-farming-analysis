@@ -1,13 +1,30 @@
 #Problem Statement
+
     *Purpose
+    
       -To Streamline operations in the dairy industry ensuring collaboration of all stake holders.
+      
       -The proposed platform  aims to ensure farmers get the value of investment made.
-      -
+      
+      
+      
+      
+      
     *Problem definition
+    
+    
       -Farmer who experiences challenges in making profits on investment done in dairy farming
+      
       -Farmer  gets connected to vet service provides and farm input providers
+      
       -Farmers are registered by cooperatives and they will have a direct access to financial instituitions,the milk market and other key stakeholders int the dairy sector.
+      
       -Farmer will have access to better  tools and information to improve production.  
+      
+      
+      
+      
+      
 
     *Users
       -Farmer
