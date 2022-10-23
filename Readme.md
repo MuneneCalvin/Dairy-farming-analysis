@@ -161,7 +161,7 @@
              solution will be made available through App, web and USSD. 
     *Document Conventions
     
-
+<img src="./Dairy Management Context Diagram.PNG">
 #Overall  Description
    *General System Requirements
          
