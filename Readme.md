@@ -260,13 +260,21 @@
           -Should have a web portal for different entities  supporting the dairy ecosystem
 
 #Interfaces
+
    *External Interface Requirements
+   
        -User Interfaces
+       
          -Web:
+         
            -Both farmers and cooperatives will interact on web
+           
          -SMS:
+         
            -notifications
+           
          -app
+         
            -Farmers,transporters and cooperatives will interact using the app
          
 
@@ -461,7 +469,8 @@
               -Batch service
                   -Report generation
                   
-                  ![image](https://user-images.githubusercontent.com/90177693/197471048-6a84e039-6f51-45b8-9577-f115514b28bc.png)
+            
+![image](https://user-images.githubusercontent.com/90177693/197471733-5a29b7fc-ce8b-4537-a942-06d22e68480e.png)
 
               
       *User experience 
