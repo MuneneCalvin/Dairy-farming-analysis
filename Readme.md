@@ -297,24 +297,43 @@
       *Model Objects
           -Farmer
              -Document ID (National ID or Passport)
+             
              - Document number (ID or passport number)
+             
              -Registration Number
+             
              -First Name
+             
              -Middle Name
+             
              -Last Name
+             
              -Mobile number
+             
              -Bank Name
+             
              -Account number
+             
              -Branch Name
+             
              -County
+             
              -Sub County
+             
              -Total number of cows
+             
              -No of lactating cows
+             
              -Expected production per day (KG)
+             
              -Transporter ID where transport is provided
+             
              -Route ID
+             
              -Transport type (self or through the transporters)
+             
              -Ward
+             
              -Village
 
           -Cooperative
@@ -441,6 +460,9 @@
 
               -Batch service
                   -Report generation
+                  
+                  ![image](https://user-images.githubusercontent.com/90177693/197471048-6a84e039-6f51-45b8-9577-f115514b28bc.png)
+
               
       *User experience 
           
