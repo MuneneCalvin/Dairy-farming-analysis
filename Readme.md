@@ -182,6 +182,8 @@
     
 
 #Overall  Description
+
+
    *General System Requirements
          
       -Overall Perspective
@@ -204,8 +206,12 @@
                
                 
    *System features
+   
         
    *Functional Requirements
+   
+   
+   
      -Farmers
      
         -Farmer should be able to login
@@ -256,10 +262,15 @@
           -mark delivery as complete
           -check farmers assigned
           
+          
    *Non-Functional Requirements
+   
+   
           -Should have a web portal for different entities  supporting the dairy ecosystem
+          
 
 #Interfaces
+
 
    *External Interface Requirements
    
@@ -302,8 +313,11 @@
 
 
 #Model Analysis
+
       *Model Objects
+      
           -Farmer
+          
              -Document ID (National ID or Passport)
              
              - Document number (ID or passport number)
