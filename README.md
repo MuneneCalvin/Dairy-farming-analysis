@@ -17,8 +17,8 @@
       
       -Farmer  gets connected to vet service provides and farm input providers
       
-      -Farmers are registered by cooperatives and they will have a direct access to financial instituitions,the milk market and other key stakeholders int the dairy sector.
-      
+      -Farmers are registered by cooperatives and they will have a direct access to financial institutions,the milk market and other key stakeholders int the dairy sector.
+     
       -Farmer will have access to better  tools and information to improve production.  
       
       
@@ -93,12 +93,12 @@
               -Order milk
 
          -challenges they face
-             -Higher prices  due to inteferences by middlemen and inflation
-             -Inadeqaute supply
+             -Higher prices  due to interferences by middlemen and inflation
+             -Inadequate supply
              -Low quality 
              
 
-      -Transpoters
+      -Transporters
          -characteristics
             -Offer delivery services on order
             -Tech savvies
@@ -106,7 +106,7 @@
             -love feedback
          
          -challenges
-            -They dont have designated delivery routes
+            -They don't have designated delivery routes
             -Not designed for long distance
             -Accidents 
             -fuel  costs
@@ -118,7 +118,7 @@
 
       -Vet service providers
         -characteristics
-            -Interact with farmers regardles of scale
+            -Interact with farmers regardless of scale
             -Compassionate
             -Problem solver
             -Have extensive knowledge on agriculture
@@ -138,7 +138,7 @@
             -Marketing
       -vet officers
         -characteristics
-            -Interact with farmers regardles of scale
+            -Interact with farmers regardless of scale
             -Compassionate
             -Problem solver
             -Have extensive knowledge on agriculture
@@ -157,7 +157,7 @@
             -Marketing
            
             
-      -Financial Instituitions
+      -Financial Institutions
          -Characteristics
              -Offer credit to farmers for farm input
              -Help in expanding bst
@@ -187,11 +187,11 @@
    *General System Requirements
          
       -Overall Perspective
-            -Nortbound actors people to connect to
+            -Northbound actors people to connect to
                  -Farmer-user
                  -Cooperatives-user
             -System -solution
-                -blackbox-break into parts during thehigh level&low level design..
+                -black box-break into parts during the high level&low level design..
             -Southbound actors-systems to connect to
                 -SMS Gateway-api for sending SMS
                 -Email Server- Sending email messages
@@ -218,7 +218,7 @@
        
         -Farmer can update details(Password,mpesa number,bank details,)
         
-        -Farmer  can transfer from one coopertaive to another
+        -Farmer  can transfer from one cooperative to another
         
         -Farmer can access information from the cooperative(change in milk price(kg),input providers available,vet officers active)
         
@@ -248,7 +248,7 @@
           -Stock management
           -Capture milk delivery details and  delivery mode
           -Generate delivery statements for every farmer
-          -Mantain and update delivery cycles
+          -Maintain and update delivery cycles
           -Determine total amount of money received by the cooperative at any given time
           -update delivery routes based on farmers location.
           
@@ -287,7 +287,7 @@
                4.1.1 Route id
                4.1.2 Route status
                4.1.3 Route Detail
-           4.2 Transpoter -farmer assignemt
+           4.2 Transporter -farmer assignment
                4.2.1  Transporter id
                4.2.2 Transporter Details
                
@@ -311,7 +311,7 @@
          6 Notification management
          7 Milk management
          8 Delivery management
-         9 Payement  management
+         9 Payment  management
          10 Purchase management
           
           
@@ -489,7 +489,7 @@
           -Components of dairy management system
               -Application(Mobile,web)
                     -Interfaces
-                    -Funtions
+                    -Functions
               -APIs
                     -Functions
                        -Should be able to connect to the auth server.
