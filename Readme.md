@@ -255,6 +255,58 @@
           -check specific farmer details
           -mark delivery as complete
           -check farmers assigned
+
+
+   *System features
+         
+         1 Authentication requirements
+            1.1  SignUp
+            1.2 Sign in
+            1.3 Credentials change
+          
+              
+             
+         2 Authorization  requirements
+            2.1  Admin
+            2.2  Other users
+
+         3 Member management
+            3.1 Member registration
+            3.2 Member type
+            3.3 Member status
+            
+         4 Transport management
+
+           4.1 Route management
+               4.1.1 Route id
+               4.1.2 Route status
+               4.1.3 Route Detail
+           4.2 Transpoter -farmer assignemt
+               4.2.1  Transporter id
+               4.2.2 Transporter Details
+               
+           
+            
+
+         5 Service/product management
+             5.1 Item type
+                5.1.1  Product
+                5.1.2 service
+
+
+             5.2 Product/coding
+               
+             5.3 Inventory management
+                 5.3.1 Item cost
+                 5.3.2 Item Stock
+                 5.3.3 Item seller
+                 
+
+         6 Notification management
+         7 Milk management
+         8 Delivery management
+         9 Payement  management
+         10 Purchase management
           
    *Non-Functional Requirements
           -Should have a web portal for different entities  supporting the dairy ecosystem
