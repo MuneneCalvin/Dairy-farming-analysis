@@ -182,6 +182,8 @@
     
 
 #Overall  Description
+
+
    *General System Requirements
          
       -Overall Perspective
@@ -204,8 +206,12 @@
                
                 
    *System features
+   
         
    *Functional Requirements
+   
+   
+   
      -Farmers
      
         -Farmer should be able to login
@@ -308,17 +314,30 @@
          9 Payement  management
          10 Purchase management
           
+          
    *Non-Functional Requirements
+   
+   
           -Should have a web portal for different entities  supporting the dairy ecosystem
+          
 
 #Interfaces
+
+
    *External Interface Requirements
+   
        -User Interfaces
+       
          -Web:
+         
            -Both farmers and cooperatives will interact on web
+           
          -SMS:
+         
            -notifications
+           
          -app
+         
            -Farmers,transporters and cooperatives will interact using the app
          
 
@@ -346,27 +365,49 @@
 
 
 #Model Analysis
+
       *Model Objects
+      
           -Farmer
+          
              -Document ID (National ID or Passport)
+             
              - Document number (ID or passport number)
+             
              -Registration Number
+             
              -First Name
+             
              -Middle Name
+             
              -Last Name
+             
              -Mobile number
+             
              -Bank Name
+             
              -Account number
+             
              -Branch Name
+             
              -County
+             
              -Sub County
+             
              -Total number of cows
+             
              -No of lactating cows
+             
              -Expected production per day (KG)
+             
              -Transporter ID where transport is provided
+             
              -Route ID
+             
              -Transport type (self or through the transporters)
+             
              -Ward
+             
              -Village
 
           -Cooperative
@@ -493,6 +534,10 @@
 
               -Batch service
                   -Report generation
+                  
+            
+![image](https://user-images.githubusercontent.com/90177693/197471733-5a29b7fc-ce8b-4537-a942-06d22e68480e.png)
+
               
       *User experience 
           
